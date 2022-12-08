@@ -1,5 +1,19 @@
 {
-    "books": [
-     
-    ]
-  }
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "user": [
+    {
+      "fullName": "Rohit Yadav",
+      "email": "r@g.com",
+      "password": "123",
+      "profile": "https://i.pravatar.cc/150?img=3",
+      "userName": "rohity0",
+      "id": 1
+    }
+  ]
+}

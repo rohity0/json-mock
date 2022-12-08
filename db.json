@@ -1,10 +1,10 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "tweet": "Hey today is bad day",
+      "id": 1
     }
+  
   ],
   "user": [
     {
